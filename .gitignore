@@ -1,0 +1,7 @@
+"myenv/" 
+"__pycache__/" 
+".env" 
+"*.log" 
+"*.vscode" 
+".DS_Store" 
+"myenv/" 
